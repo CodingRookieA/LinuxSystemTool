@@ -44,5 +44,5 @@ CLA Syntax:
  
 
 Default Behavior
-If no arguments are passed the program should present all the information about memory utilization, CPU utilization and cores
+If no arguments are passed the program presents all the information about memory utilization, CPU utilization and cores
 Default values for samples=20 , tdelay=500000 microsec.
