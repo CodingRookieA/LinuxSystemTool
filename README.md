@@ -1,6 +1,30 @@
 # LinuxSystemTool
 A program created in C that allows users to monitor the real-time resource usage of their laptop using customizable sample size and time intervals.
 
+# My Monitoring Tool
+
+## Running the Code
+
+1. **Download or clone the project repository**
+   ```bash
+   git clone <repository_url>
+   ```
+
+2. **Navigate into the project directory**
+   ```bash
+   cd System_concurrent
+   ```
+
+3. **Build the project**
+   ```bash
+   make
+   ```
+
+4. **Run the executable**
+   ```bash
+   ./myMonitoringTool
+   ```
+
 ## Command Line Arguments
 The program accepts several command-line arguments:
 
